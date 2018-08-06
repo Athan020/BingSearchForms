@@ -1,0 +1,9 @@
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms.Core\bin\Debug\netstandard2.0\BingSearchForms.Core.deps.json
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms.Core\bin\Debug\netstandard2.0\BingSearchForms.Core.dll
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms.Core\obj\Debug\netstandard2.0\BingSearchForms.Core.csproj.CoreCompileInputs.cache
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms.Core\obj\Debug\netstandard2.0\BingSearchForms.Core.AssemblyInfoInputs.cache
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms.Core\obj\Debug\netstandard2.0\BingSearchForms.Core.AssemblyInfo.cs
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms.Core\bin\Debug\netstandard2.0\BingSearchForms.Core.pdb
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms.Core\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms.Core\obj\Debug\netstandard2.0\BingSearchForms.Core.dll
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms.Core\obj\Debug\netstandard2.0\BingSearchForms.Core.pdb

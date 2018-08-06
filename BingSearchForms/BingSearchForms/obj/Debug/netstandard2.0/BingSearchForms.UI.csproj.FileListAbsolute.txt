@@ -1,0 +1,15 @@
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\bin\Debug\netstandard2.0\BingSearchForms.Core.dll
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\obj\Debug\netstandard2.0\BingSearchForms.UI.csprojAssemblyReference.cache
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\obj\Debug\netstandard2.0\BingSearchForms.UI.csproj.CoreCompileInputs.cache
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\obj\Debug\netstandard2.0\BingSearchForms.UI.AssemblyInfoInputs.cache
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\obj\Debug\netstandard2.0\BingSearchForms.UI.AssemblyInfo.cs
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\bin\Debug\netstandard2.0\BingSearchForms.UI.deps.json
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\bin\Debug\netstandard2.0\BingSearchForms.UI.dll
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\bin\Debug\netstandard2.0\BingSearchForms.UI.pdb
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\bin\Debug\netstandard2.0\BingSearchForms.Core.pdb
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\obj\Debug\netstandard2.0\BingSearchForms.UI.csproj.CopyComplete
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\obj\Debug\netstandard2.0\BingSearchForms.UI.dll
+C:\Users\Athandile\source\repos\BingSearchForms\BingSearchForms\BingSearchForms\obj\Debug\netstandard2.0\BingSearchForms.UI.pdb
